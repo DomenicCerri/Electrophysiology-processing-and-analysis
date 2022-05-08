@@ -1,4 +1,4 @@
-# Electropgysiology data processing and event-related time series analyses and visualizations.
+# Electrophysiology data processing and event-related time series analyses and visualizations.
 
 All pipelines are designed to work on data batch preprocessed from the included Neuroexplorer scripts and templates found in NEX_py_scripts and NEX_templates, respectively
 
