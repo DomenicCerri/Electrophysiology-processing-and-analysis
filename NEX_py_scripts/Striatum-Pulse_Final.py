@@ -3,8 +3,8 @@ import os
 
 # specify your data directory and file extensions here
 # note that we need to use double backslashes (C:\\Data, not C:\Data)
-# dataDirectory = 'D:\\MUA_LFP\\PfT\\eYFP'
-dataDirectory = 'E:\\MUA_LFP\\PfT\\eYFP'
+# dataDirectory = 'D:\\'
+dataDirectory = 'E:\\'
 block = 10
 fileExtensions = ['.nex5']
 

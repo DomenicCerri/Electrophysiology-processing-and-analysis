@@ -3,8 +3,8 @@ import os
 
 # specify your data directory and file extensions here
 # note that we need to use double backslashes (C:\\Data, not C:\Data)
-# dataDirectory = 'D:\\MUA_LFP\\PfT\\eYFP'
-dataDirectory = 'E:\\MUA_LFP\\SNr\\ChR2'
+# dataDirectory = 'D:\\'
+dataDirectory = 'E:\\'
 fileExtensions = ['.nex5']
 
 def ListFiles(dataFilesDir, extensions):
